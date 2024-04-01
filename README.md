@@ -11,3 +11,6 @@ Taking as an example the incorporation of Athlete data.
 
 ![image](https://github.com/Torres-G50/Text-to-notepad-in-java/assets/64995242/84fbc426-0bb6-43e0-8253-2320cc754aba)
 
+![image](https://github.com/Torres-G50/Text-to-notepad-in-java/assets/64995242/3fa6e0e5-7789-4f57-8b30-bd6916f0ad48)
+
+
