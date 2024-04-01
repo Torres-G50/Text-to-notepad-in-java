@@ -1,5 +1,5 @@
 # Text to Notepad
-From Text to a Notepad made in Java in a JFrame.
+From Text to a Notepad made in Java in a JFrame
 
 Taking as an example the incorporation of Athlete data.
 
@@ -8,3 +8,6 @@ Taking as an example the incorporation of Athlete data.
 ![image](https://github.com/Torres-G50/Text-to-notepad-in-java/assets/64995242/0c98f6c7-0a10-499b-979f-6981e81d5d5f)
 
 ![image](https://github.com/Torres-G50/Text-to-notepad-in-java/assets/64995242/35a7fee9-e70b-43ab-9396-7621a7bba9c6)
+
+![image](https://github.com/Torres-G50/Text-to-notepad-in-java/assets/64995242/84fbc426-0bb6-43e0-8253-2320cc754aba)
+
