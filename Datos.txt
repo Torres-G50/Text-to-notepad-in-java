@@ -1,0 +1,4 @@
+El Nombre del Atleta es: ricardo dias
+La Actividad del Atleta es: acletismo
+EL Estado Actual del Atleta es: Regular
+La Nacionalidad del Atleta es: Mexicano
